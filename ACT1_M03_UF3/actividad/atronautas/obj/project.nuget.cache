@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6O6Oa7I0YUmCkAxkOHeDMH321QtUi+hudqIWPg2LdVFy63t5sP9rs4hZ+UUmcGxvTL7Y8O6W4aHt+IqhXF8aFQ==",
+  "dgSpecHash": "2opzxLcipkoSEoogFGznQ76SYOYc6AC93c4Q83z9FNG83A4+TyE1BBEpB15KaO4rqfIxiAI//GNIwxkzHgZrsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj",
+  "projectFilePath": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\MP03BUF3PROJECTEAPI\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marc1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\marc1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj": {}
+    "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\MP03BUF3PROJECTEAPI\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj": {
+    "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\MP03BUF3PROJECTEAPI\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj",
+        "projectUniqueName": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\MP03BUF3PROJECTEAPI\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj",
         "projectName": "atronautas",
-        "projectPath": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj",
+        "projectPath": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\MP03BUF3PROJECTEAPI\\ACT1_M03_UF3\\actividad\\atronautas\\atronautas.csproj",
         "packagesPath": "C:\\Users\\marc1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\ACT1_M03_UF3\\actividad\\atronautas\\obj\\",
+        "outputPath": "C:\\Users\\marc1\\OneDrive\\Escritorio\\DAW\\M03 - Programació\\MP03BUF3PROJECTEAPI\\ACT1_M03_UF3\\actividad\\atronautas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marc1\\AppData\\Roaming\\NuGet\\NuGet.Config"
